@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b7e2002775e7c192dbf58621e74ada7",
+    "revision": "e7f620f95e0ac4abc714c64ae39f1e3e",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "06c750a435805baa876b",
+    "revision": "c8f78ee380ff854a2c0c",
     "url": "/portfolio/static/css/main.8f211eff.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.49b170d7.chunk.js"
   },
   {
-    "revision": "06c750a435805baa876b",
-    "url": "/portfolio/static/js/main.fcb69873.chunk.js"
+    "revision": "c8f78ee380ff854a2c0c",
+    "url": "/portfolio/static/js/main.2fbdf8a5.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/Akhil Kalepu Suit.a6374209.jpg"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/portfolio/static/media/logo.5d5d9eef.svg"
+    "revision": "6218981eada02743b453eb125fe1ae87",
+    "url": "/portfolio/static/media/logo.6218981e.svg"
   }
 ]);

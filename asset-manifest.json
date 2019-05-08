@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.875db0ba.chunk.css",
-    "main.js": "/portfolio/static/js/main.7ba514c4.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.7ba514c4.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.70dae909.chunk.css",
+    "main.js": "/portfolio/static/js/main.1a86df88.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1a86df88.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
     "static/js/2.b71ada10.chunk.js": "/portfolio/static/js/2.b71ada10.chunk.js",
     "static/js/2.b71ada10.chunk.js.map": "/portfolio/static/js/2.b71ada10.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.3ca9df459735d0956c81e4e1867a16ef.js": "/portfolio/precache-manifest.3ca9df459735d0956c81e4e1867a16ef.js",
+    "precache-manifest.2089d42ce2995a7d1e4bbcd20da41439.js": "/portfolio/precache-manifest.2089d42ce2995a7d1e4bbcd20da41439.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.875db0ba.chunk.css.map": "/portfolio/static/css/main.875db0ba.chunk.css.map",
+    "static/css/main.70dae909.chunk.css.map": "/portfolio/static/css/main.70dae909.chunk.css.map",
     "static/media/Akhil Kalepu Suit.jpg": "/portfolio/static/media/Akhil Kalepu Suit.a6374209.jpg",
     "static/media/logo.svg": "/portfolio/static/media/logo.6218981e.svg"
   }
